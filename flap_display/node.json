@@ -1,0 +1,7 @@
+{
+  "type": "node",
+  "name": "Flap Display",
+  "description": "Displays text updates from the GPIO node",
+  "input": {},
+  "output": {}
+}
