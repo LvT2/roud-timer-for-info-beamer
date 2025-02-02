@@ -1,0 +1,7 @@
+{
+  "name": "Flap Display with GPIO",
+  "description": "Monitors GPIO 23 and displays time interval on a flap display.",
+  "version": "1.0",
+  "author": "LvT2",
+  "license": "MIT"
+}
